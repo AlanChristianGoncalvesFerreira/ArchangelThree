@@ -32,13 +32,21 @@ pequenas , médias e grandes empresas .</p>
   0%   { background-image: url("images/logoone.png");
  background-size:100%;
  background-repeat:no-repeat;}
-  35%  { background-image: url("images/camiseta-slide.png");
+  25%  { background-image: url("images/camiseta-slide.png");
  background-size:100%;
  background-repeat:no-repeat;}
-  50%  { background-image: url("images/onofre-slide.png");
+  45%  { background-image: url("images/onofre-slide.png");
  background-size:100%;
  background-repeat:no-repeat;}
-  100% {}
+  65% { background-image: url("images/bobburnquist-slide.png");
+ background-size:100%;
+ background-repeat:no-repeat;}
+ 85% { background-image: url("images/pikachu-slide.png");
+ background-size:100%;
+ background-repeat:no-repeat;}
+ 100% { background-image: url("images/monster-slide.png");
+ background-size:100%;
+ background-repeat:no-repeat;}
 }
 #cHome figure img{     
     width: 50%;
