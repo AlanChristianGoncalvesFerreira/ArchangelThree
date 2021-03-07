@@ -20,7 +20,7 @@
 
             <ul>
                 <li> <a href="javascript:caller(0)"> Home </a></li>
-                <li><a href="javascript:caller(1)">Serviços</a></li>
+                <li><a href="https://alanchristiangoncalvesferreira.blogspot.com/" target="_blank" >Blog</a></li>
                 <li><a href="https://www.behance.net/alanchristiangf" target="_blank">Behance</a></li>
                 <li><a href="https://www.artstation.com/alanchristiangoncalvesferreira" target="_blank">Artstation</a></li>
                 <li><a href="https://www.github.com/alanchristiangoncalvesferreira" target="_blank">Github</a></li>
@@ -32,7 +32,7 @@
         <div id="menuvertical" class="menu-bar">
             <ul>
                 <li><a href="javascript:caller(0)" >Home</a></li>
-                <li><a href="javascript:caller(1)" >Serviços</a></li>
+                <li><a href="https://alanchristiangoncalvesferreira.blogspot.com/" target="_blank" >Blog</a></li>
                 <li><a href="https://www.behance.net/alanchristiangf" target="_blank">Behance</a></li>
                 <li><a href="https://www.artstation.com/alanchristiangoncalvesferreira" target="_blank">Artstation</a></li> 
                 <li><a href="https://www.github.com/alanchristiangoncalvesferreira" target="_blank">Github</a></li>  
@@ -52,15 +52,15 @@
         <ul id="mapa">
             <li><h2>MAPA DO SITE</h2></li>
             <li><a href="javascript:caller(0)"> Home </a></li>
-            <li><a href="javascript:caller(1)" >Serviços</a></li>
+            <li><a href="https://alanchristiangoncalvesferreira.blogspot.com/" target="_blank">Blog</a></li>
             <li><a href="javascript:caller(2)">Contato</a></li>
             <li><a href="javascript:caller(3)">Direitos autorais</a></li>
         </ul>    
         <ul id="social">
            <h2>Redes sociais</h2>
-            <li><a href="#"> Facebook </a></li>
-            <li><a href="#" >Instagram</a></li>
-            <li><a href="#">Linkedin</a></li>
+            <li><a href="https://www.facebook.com/DesignerAlanChristian" target="_blank"> Facebook </a></li>
+            <li><a href="https://www.instagram.com/alanchristiandesign/" target="_blank">Instagram</a></li>
+            <li><a href="https://www.linkedin.com/in/alanchristiangoncalvesferreira/" target="_blank">Linkedin</a></li>
            
         </ul>    
 
