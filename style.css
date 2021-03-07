@@ -173,6 +173,8 @@ footer{ width: 100%;
     display: block;
    
 }
+.menushow a{color:#f14f11;
+            font-size: 31px;}
     nav {
         overflow: hidden;
        background-color: black;
