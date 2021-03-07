@@ -86,6 +86,11 @@ nav li {width: 99px;
             border: 2px solid #f14f11;
 
         }
+        #menuvertical a{color: black;  }]
+        #menuvertical a:active{ color:#f14f11;
+
+
+        }
 
         .menu-bar{width:96%;
                 height: auto;
