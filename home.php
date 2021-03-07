@@ -16,7 +16,9 @@ pequenas , médias e grandes empresas .</p>
 </div>    
 
 <style>
-#cHome{}
+#cHome{
+    padding: 20px;
+}
 #cHome figure{
     width: 44%;
     height: 112%;
