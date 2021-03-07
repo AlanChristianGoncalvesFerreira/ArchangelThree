@@ -5,10 +5,11 @@
  <article>
      <h2>Sobre mim </h2>
      <p>Alan Christian Gonçalves Ferreira , designer gráfico e desenvolvedor 
-front end , desde 2010 . Já são 11 anos de carreira , trabalhando para 
+front end , desde 2010 .</br>
+ Já são 11 anos de carreira , trabalhando para 
 pequenas , médias e grandes empresas .</p>
 
-<button type="button" >Currículo</button>
+<button type="button"><a href="https://www.linkedin.com/in/alanchristiangoncalvesferreira/" target="_blank">Currículo</a></button>
  </article>
 
 
@@ -24,7 +25,7 @@ pequenas , médias e grandes empresas .</p>
  background-size:100%;
  background-repeat:no-repeat;
  animation-name: slide;
-  animation-duration: 20s;
+  animation-duration: 30s;
   animation-iteration-count: infinite;
 }
 
