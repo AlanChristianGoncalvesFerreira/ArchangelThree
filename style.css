@@ -147,6 +147,7 @@ footer{ width: 100%;
  footer ul li h2 , footer #social h2{
    font-size: 1.2em;  
    color: #f14f11;
+   text-align: center;
 
  }   
 
