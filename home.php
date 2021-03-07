@@ -38,7 +38,7 @@ pequenas , médias e grandes empresas .</p>
   50%  { background-image: url("images/onofre-slide.png");
  background-size:100%;
  background-repeat:no-repeat;}
-  100% {background-color: green;}
+  100% {}
 }
 #cHome figure img{     
     width: 50%;
@@ -67,7 +67,7 @@ pequenas , médias e grandes empresas .</p>
 }
 @media only screen and (max-width: 824px) { 
     #cHome figure {
-    width: 44%;
+    width: 70%;
     height: 49%;
     float: none;
 }
