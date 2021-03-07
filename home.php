@@ -1,6 +1,6 @@
 <div id="cHome">
  <figure>
-     <img src="images/logoone.png" alt="Alan Christian">
+   
  </figure> 
  <article>
      <h2>Sobre mim </h2>
@@ -16,7 +16,30 @@ pequenas , médias e grandes empresas .</p>
 
 <style>
 #cHome{}
-#cHome figure{display:contents; float:left;}
+#cHome figure{
+    width: 44%;
+    height: 112%;
+   float:left;
+ background-image: url("images/logoone.png");
+ background-size:100%;
+ background-repeat:no-repeat;
+ animation-name: slide;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes slide {
+  0%   { background-image: url("images/logoone.png");
+ background-size:100%;
+ background-repeat:no-repeat;}
+  35%  { background-image: url("images/camiseta-slide.png");
+ background-size:100%;
+ background-repeat:no-repeat;}
+  50%  { background-image: url("images/onofre-slide.png");
+ background-size:100%;
+ background-repeat:no-repeat;}
+  100% {background-color: green;}
+}
 #cHome figure img{     
     width: 50%;
     height: 114%;
@@ -43,10 +66,12 @@ pequenas , médias e grandes empresas .</p>
 
 }
 @media only screen and (max-width: 824px) { 
-#cHome figure img {
-    width: 97%;
-    height: 90%;
+    #cHome figure {
+    width: 44%;
+    height: 49%;
+    float: none;
 }
+
 #cHome article {
   float:none;
   width:100%;
