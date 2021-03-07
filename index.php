@@ -58,9 +58,9 @@
         </ul>    
         <ul id="social">
            <h2>Redes sociais</h2>
-            <li><a href="https://www.facebook.com/DesignerAlanChristian" target="_blank"> Facebook </a></li>
-            <li><a href="https://www.instagram.com/alanchristiandesign/" target="_blank">Instagram</a></li>
-            <li><a href="https://www.linkedin.com/in/alanchristiangoncalvesferreira/" target="_blank">Linkedin</a></li>
+            <li><a href="https://www.facebook.com/DesignerAlanChristian" target="_blank"><img src="images/icon-facebook.png" alt="Facebook"> </a></li>
+            <li><a href="https://www.instagram.com/alanchristiandesign/" target="_blank"><img src="images/icon-instagram.png" alt="Instagram"> </a></li>
+            <li><a href="https://www.linkedin.com/in/alanchristiangoncalvesferreira/" target="_blank"><img src="images/icon-linkedin.png" alt="Linkedin"> </a></li>
            
         </ul>    
 
