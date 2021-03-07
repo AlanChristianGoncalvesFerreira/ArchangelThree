@@ -12,10 +12,6 @@ header{
        width: 100%;
        height: 150px;}
 nav{background-color: black;
-    background-image:url("images/headerAlanChristian.png");
-    background-position: 1062px -10px;
-    background-repeat: no-repeat;
-    background-size: 37%;
     width: 100%;
     height: 58px;
     overflow: hidden;
@@ -152,7 +148,7 @@ footer{ width: 100%;
  }   
 
  footer #social {float: right; 
-    margin: 0 102px 0 0;   }
+      }
  footer #social li{float:left;
                     margin:0 0 0 10px;
                     list-style: none;
@@ -175,6 +171,8 @@ footer #social li a {
             display: none;}
 
             nav ul{display: block;}
+
+            footer #social{ margin: 0 102px 0 0;}
             
  }     
 
@@ -191,10 +189,7 @@ footer #social li a {
     nav {
         overflow: hidden;
        background-color: black;
-            background-image:url("images/headerAlanChristian.png");
-            background-position: 125px 11px;
-            background-repeat: no-repeat;
-            background-size: 56%;
+          
       }
      
       nav ul{display: none;}
@@ -215,6 +210,15 @@ footer #social li a {
        background-size: 80%; }
        footer #social {
         float: left;
-        margin:none;
+        margin:0 0 0 0;
     }
 }         
+
+@media only screen and (max-width: 360px) {
+
+    footer #social {
+        float: left;
+        margin:0 ;
+    }
+
+ }
