@@ -7,7 +7,7 @@
     <script type="text/javascript" src="script.js"></script>
     <link rel="stylesheet" href="style.css ">
 
-    <title>Document</title>
+    <title>Alan Christian / Archangel Three</title>
 </head>
 
 <body>
