@@ -5,7 +5,7 @@
 
 </div>
 <div id="cForm">
-<form action="send.php" method="post" onsubmit="return valida_form(this)">
+<form action="index.php" method="post" onsubmit="return valida_form(this)">
 <fieldset>
     <legend>Contato</legend>
 <label for="nome"> Nome :</label></br>
