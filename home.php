@@ -27,12 +27,15 @@ pequenas , médias e grandes empresas .</p>
  background-size:100%;
  background-repeat:no-repeat;
  animation-name: slide;
-  animation-duration: 30s;
+  animation-duration: 50s;
   animation-iteration-count: infinite;
 }
 
 @keyframes slide {
   0%   { background-image: url("images/logoone.png");
+ background-size:100%;
+ background-repeat:no-repeat;}
+ 15%   { background-image: url("images/modonadahaver.png");
  background-size:100%;
  background-repeat:no-repeat;}
   25%  { background-image: url("images/camiseta-slide.png");
@@ -59,7 +62,7 @@ pequenas , médias e grandes empresas .</p>
 }
 #cHome article{   
     width: 46%;
-    color: black;
+    color: white;
     font-size: 1.2em;
     float:right;
     margin-top: 20%;
@@ -68,7 +71,7 @@ pequenas , médias e grandes empresas .</p>
 #cHome article button{
     width: 50%;
     height: 49px;
-    background-color: #f14f11;
+    background-color: #f1b304;
     border-radius: 19px;
     border: 2px solid black;
     font-size: 1.2em;
