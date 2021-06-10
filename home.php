@@ -71,7 +71,8 @@ pequenas , médias e grandes empresas .</p>
 #cHome article button{
     width: 50%;
     height: 49px;
-    background-color: #f1b304;
+    background-color: #06448a;
+    color:white;
     border-radius: 19px;
     border: 2px solid black;
     font-size: 1.2em;
@@ -79,6 +80,7 @@ pequenas , médias e grandes empresas .</p>
 
 
 }
+#cHome article button a{ color:white;} 
 @media only screen and (max-width: 824px) { 
     #cHome figure {
     width: 70%;
