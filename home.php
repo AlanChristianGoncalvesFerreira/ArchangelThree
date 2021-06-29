@@ -91,6 +91,7 @@ pequenas , médias e grandes empresas .</p>
 #cHome article {
   float:none;
   width:100%;
+  margin-top:0px;
 
 }
 
